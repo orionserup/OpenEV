@@ -1,0 +1,19 @@
+(kicad_sch (version 20210621) (generator eeschema)
+
+  (uuid ad4820f6-7d53-42c0-baa8-66a3a0b9e214)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "PP" (shape input) (at 96.52 87.63 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 1ee68b13-3317-4346-b397-c5e56026a25b)
+  )
+  (hierarchical_label "CP" (shape input) (at 95.25 80.01 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid eb730849-f44e-41f6-9102-03ebc9340cfb)
+  )
+)
