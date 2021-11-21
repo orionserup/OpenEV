@@ -8,9 +8,17 @@
   )
 
 
+  (hierarchical_label "I_MAX" (shape input) (at 199.39 85.09 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 1dbf5258-8ea5-42d3-beb5-d5cedb7e0515)
+  )
   (hierarchical_label "PP" (shape input) (at 96.52 87.63 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 1ee68b13-3317-4346-b397-c5e56026a25b)
+  )
+  (hierarchical_label "START{slash}~{STOP}" (shape input) (at 195.58 78.74 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 6aa0a051-aeef-43d3-b387-cef4fe6bf628)
   )
   (hierarchical_label "CP" (shape input) (at 95.25 80.01 0)
     (effects (font (size 1.27 1.27)) (justify left))

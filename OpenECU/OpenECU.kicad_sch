@@ -1,5 +1,61 @@
 (kicad_sch (version 20210621) (generator eeschema)
+
+  (uuid 6ba7999e-14c6-4ae7-8a9c-b3178da083ce)
+
   (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 143.51 45.72) (size 24.13 10.16) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 24c94f61-8ecd-4025-a429-bda0d11e8681)
+    (property "Sheet name" "CAN Transceiver" (id 0) (at 143.51 45.0084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "..\\OpenCharger\\CANTransiever.kicad_sch" (id 1) (at 143.51 56.4646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (pin "GND" input (at 143.51 52.07 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 60841079-145c-4689-a16a-dc186febd325)
+    )
+    (pin "VCC" input (at 143.51 49.53 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 998ffd18-9d4d-4b30-a810-4c94181c47c5)
+    )
+    (pin "TXD" input (at 167.64 49.53 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 81c0c851-ff62-4a55-92eb-f670dc03b3bf)
+    )
+    (pin "RXD" input (at 167.64 52.07 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 0d84d8c8-f58b-41e9-8bdb-cabae100359e)
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/24c94f61-8ecd-4025-a429-bda0d11e8681" (page "2"))
+  )
+
+  (symbol_instances
+    (path "/24c94f61-8ecd-4025-a429-bda0d11e8681/b6df074c-0d9b-4622-9934-6578c8579d2d"
+      (reference "C7") (unit 1) (value "C") (footprint "")
+    )
+    (path "/24c94f61-8ecd-4025-a429-bda0d11e8681/d881669f-f1ae-4865-a9bc-90fd749c7ac2"
+      (reference "J4") (unit 1) (value "RJ45_LED") (footprint "Connector_RJ:RJ45_Amphenol_RJHSE538X")
+    )
+    (path "/24c94f61-8ecd-4025-a429-bda0d11e8681/3222b3a7-6040-4e7e-8a22-06d0f1f57466"
+      (reference "R5") (unit 1) (value "R_US") (footprint "")
+    )
+    (path "/24c94f61-8ecd-4025-a429-bda0d11e8681/0efbffc9-e772-4b3d-b281-ecd1ead99e22"
+      (reference "R6") (unit 1) (value "R_US") (footprint "")
+    )
+    (path "/24c94f61-8ecd-4025-a429-bda0d11e8681/bdd6668c-03c1-43bd-84bc-e37c565b337b"
+      (reference "U1") (unit 1) (value "ISO1050DUB") (footprint "Package_SO:SOP-8_6.62x9.15mm_P2.54mm")
+    )
+  )
 )
