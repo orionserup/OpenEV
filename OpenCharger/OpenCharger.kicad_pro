@@ -447,28 +447,12 @@
       "FilteredRectifier"
     ],
     [
-      "b2b23155-5d6a-4843-83ba-965f0bed6b75",
-      "CAN Transiever"
-    ],
-    [
       "f19c46d2-f8cd-4377-a127-744d2b02b3aa",
       "DC-DC Converter"
     ],
     [
       "57fe1fff-68ba-458e-95cb-8a37c8324791",
       "ChargeController"
-    ],
-    [
-      "8eec3119-9c4c-4424-9be3-8b2c52ec5f03",
-      "Charger Interface"
-    ],
-    [
-      "3391bea9-f5b1-45a3-b928-ba21a10f4da7",
-      "DC-DC Converter Gate Driver"
-    ],
-    [
-      "26d8b52c-63bd-4544-8fd0-a4fcf1ee6534",
-      "Rectifier Gate Drivers"
     ]
   ],
   "text_variables": {}
