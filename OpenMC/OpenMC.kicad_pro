@@ -48,7 +48,13 @@
           "min_clearance": 0.508
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -112,8 +118,18 @@
         "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
       },
-      "track_widths": [],
-      "via_dimensions": [],
+      "track_widths": [
+        0.0,
+        0.2032,
+        0.635,
+        0.762
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
@@ -416,20 +432,44 @@
       ""
     ],
     [
-      "bf138c34-b949-49c5-9d96-5a1f48196a2c",
-      "Right Hall Sensors"
+      "ce5f25b7-cdfb-4550-8dd9-4a42f2ce325b",
+      "B Driver"
     ],
     [
       "9fdd9743-7d40-4ff9-b298-eb15dc27c37c",
-      "Right Driver FETs"
+      "Driver FETs"
     ],
     [
-      "512a00e7-3aec-4e83-8aca-726fb7daff4c",
-      "Left Driver FETs"
+      "bb25a948-cf94-40f1-bfa6-c5ae436248f7",
+      "Pre-Driver"
     ],
     [
-      "88e7460b-8f85-4135-8ee0-f3cd8ee2063a",
-      "Left Hall Sensors"
+      "fba5884c-84b0-441b-beb3-7f193dfa90cf",
+      "A Driver"
+    ],
+    [
+      "166a9fd5-d6ba-4874-89cf-d15038e42e6c",
+      "Controller"
+    ],
+    [
+      "d977730d-1012-4d52-b57c-cb0bf76a795a",
+      "C Driver"
+    ],
+    [
+      "d92ba20a-ba12-427b-94f1-ad3e77109afc",
+      "VGen"
+    ],
+    [
+      "1e8d27ce-f2b1-432b-ae04-7f1082e93ab2",
+      "Current Sense A"
+    ],
+    [
+      "2ea9b732-8e5a-46aa-bdc4-501c67e0bc09",
+      "Current Sense B"
+    ],
+    [
+      "06243721-648d-4882-bf2d-f24853d3c855",
+      "Current Sense C"
     ]
   ],
   "text_variables": {}
