@@ -1,4 +1,4 @@
-19939207866967845
+19942505036713271
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -77602,6 +77602,13 @@ MOSFET (N-Channel)
 10
 10
 SamacSys_Parts
+BUK9M2040HX
+BUK9M20-40HX-4
+MOSFET (N-Channel)
+0
+9
+9
+SamacSys_Parts
 BUK621055C118
 DPAK (SOT-428)
 Transistor BJT PNP
@@ -77825,6 +77832,13 @@ Integrated Circuit
 0
 65
 65
+SamacSys_Parts
+RESC6430X38N
+WSLF25121L000FEB+
+Resistor
+0
+2
+2
 SamacSys_Parts
 RESC10052X200N
 PSR400

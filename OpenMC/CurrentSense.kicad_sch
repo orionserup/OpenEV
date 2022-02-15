@@ -102,7 +102,7 @@
   (symbol (lib_id "SamacSys_Parts:INA186A4QDBVRQ1") (at 129.54 86.36 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 01f1dfbc-f860-48dd-886b-b97bdb6f26be)
-    (property "Reference" "IC4" (id 0) (at 142.24 79.9043 0))
+    (property "Reference" "IC2" (id 0) (at 142.24 79.9043 0))
     (property "Value" "INA186A4QDBVRQ1" (id 1) (at 142.24 82.6794 0))
     (property "Footprint" "SOT95P280X145-5N" (id 2) (at 151.13 83.82 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)

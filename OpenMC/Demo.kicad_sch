@@ -1,0 +1,44 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 9d6ab81b-e9e5-4c6b-aa99-608d2ff7af21)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+  (junction (at 142.24 92.71) (diameter 0) (color 0 0 0 0)
+    (uuid 378af37c-eb35-4962-b5c1-2748ebd881e2)
+  )
+
+  (wire (pts (xy 142.24 92.71) (xy 147.32 92.71))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 72f79791-da6f-4673-9a7a-52a9da5dd0d2)
+  )
+  (wire (pts (xy 133.35 92.71) (xy 142.24 92.71))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 90cb40bb-7e0c-48ab-b2b4-456368bb3720)
+  )
+  (wire (pts (xy 142.24 96.52) (xy 142.24 92.71))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid abaf2b28-89a8-4f01-ac69-988989a9128d)
+  )
+
+  (label "VDD" (at 133.35 92.71 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid aae7b216-77c1-4cf7-aa17-09b3224d47d3)
+  )
+
+  (global_label "VDD" (shape input) (at 142.24 96.52 270) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 3fc90e65-4a3c-41c8-9378-e0c6b5df6b56)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 142.1606 102.5617 90)
+      (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
+
+  (hierarchical_label "VDD" (shape input) (at 147.32 92.71 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 0ed72ea8-1184-4a18-89c0-49af98626b33)
+  )
+)

@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.2032
         }
       },
       "diff_pair_dimensions": [
@@ -122,8 +122,10 @@
         0.0,
         0.2032,
         0.381,
+        0.508,
         0.635,
         0.762,
+        1.27,
         2.032
       ],
       "via_dimensions": [
@@ -470,8 +472,16 @@
       "C Driver"
     ],
     [
+      "90e13515-31c5-4f95-ac72-a2b10de73bfa",
+      "Current Sense Amp B"
+    ],
+    [
       "1e8d27ce-f2b1-432b-ae04-7f1082e93ab2",
-      "Current Sense Amp"
+      "Current Sense Amp A"
+    ],
+    [
+      "3616f422-ab29-4172-b7ec-b31c9c9814d0",
+      "Current Sense Amp C"
     ]
   ],
   "text_variables": {}
