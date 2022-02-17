@@ -1435,7 +1435,7 @@
       (reference "D3") (unit 1) (value "D") (footprint "Diode_SMD:D_1206_3216Metric")
     )
     (path "/166a9fd5-d6ba-4874-89cf-d15038e42e6c/d94776de-5736-46b4-bfb7-39a4fd614e3d"
-      (reference "IC1") (unit 1) (value "ESP32-C3") (footprint "QFN50P500X500X90-33N-D")
+      (reference "IC1") (unit 1) (value "ESP32-C3") (footprint "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.7x3.7mm")
     )
     (path "/bb25a948-cf94-40f1-bfa6-c5ae436248f7/90e13515-31c5-4f95-ac72-a2b10de73bfa/01f1dfbc-f860-48dd-886b-b97bdb6f26be"
       (reference "IC2") (unit 1) (value "INA186A4QDBVRQ1") (footprint "SOT95P280X145-5N")

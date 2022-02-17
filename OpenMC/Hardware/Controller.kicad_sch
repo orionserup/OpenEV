@@ -1379,7 +1379,7 @@
     (uuid d94776de-5736-46b4-bfb7-39a4fd614e3d)
     (property "Reference" "IC1" (id 0) (at 101.0903 112.1367 0))
     (property "Value" "ESP32-C3" (id 1) (at 101.0903 114.9118 0))
-    (property "Footprint" "QFN50P500X500X90-33N-D" (id 2) (at 96.52 105.41 0)
+    (property "Footprint" "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.7x3.7mm" (id 2) (at 96.52 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf" (id 3) (at 96.52 107.95 0)
