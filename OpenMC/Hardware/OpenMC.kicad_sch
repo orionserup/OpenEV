@@ -1567,7 +1567,7 @@
       (reference "U4") (unit 1) (value "LM3480-3.3") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/166a9fd5-d6ba-4874-89cf-d15038e42e6c/42248b69-1384-4d0a-a202-097338621095"
-      (reference "Y1") (unit 1) (value "40MHz") (footprint "SamacSys_Parts:ABM12W300000MHZ6B1UT3")
+      (reference "Y1") (unit 1) (value "40MHz") (footprint "Crystal:Crystal_SMD_SeikoEpson_TSX3225-4Pin_3.2x2.5mm")
     )
   )
 )

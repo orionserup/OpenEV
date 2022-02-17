@@ -427,6 +427,22 @@
     [
       "6ba7999e-14c6-4ae7-8a9c-b3178da083ce",
       ""
+    ],
+    [
+      "a22ef832-33fc-4544-9dac-b6ed3c7ca675",
+      "Sensors"
+    ],
+    [
+      "381ac0ba-1452-42d2-80b0-a1b73edf92b7",
+      "MCU"
+    ],
+    [
+      "7ba41709-763d-4924-b365-501a763cce07",
+      "USB"
+    ],
+    [
+      "a54d34e1-6045-4f4c-bb09-a70ef04dc72a",
+      "Voltage Generation"
     ]
   ],
   "text_variables": {}

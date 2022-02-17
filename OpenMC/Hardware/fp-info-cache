@@ -1,4 +1,4 @@
-19942505036713271
+19950730645686297
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59345,20 +59345,6 @@ net tie
 0
 4
 4
-OpenMC
-KUSB-SMT
-
-
-0
-0
-0
-OpenMC
-OS
-
-
-0
-0
-0
 OptoDevice
 ADNS-9800
 Laser Gaming Sensor ADNS-9800
@@ -77574,6 +77560,13 @@ Connector
 20
 20
 SamacSys_Parts
+1043
+1043-3
+Undefined or Miscellaneous
+0
+5
+5
+SamacSys_Parts
 AAA3528SURKCGKC09
 AAA3528SURKCGKC09-2
 LED
@@ -77587,6 +77580,13 @@ Crystal or Oscillator
 0
 4
 4
+SamacSys_Parts
+BGA15C40P3X5_151X215X55
+W3x5.15 15 BALL WAFER LEVEL CHIP SCALE PACKAGE (WLCSP 0.4mm pitch)
+Integrated Circuit
+0
+15
+15
 SamacSys_Parts
 BGA169C50P13X13_700X700X60
 UFBGA169
@@ -77679,6 +77679,13 @@ MOSFET (N-Channel)
 13
 13
 SamacSys_Parts
+IIS2MDCTR
+LGA-12 XDM
+Integrated Circuit
+0
+12
+12
+SamacSys_Parts
 IPB033N10N5LFATMA1
 IPB033N10N5LFATMA1-3
 MOSFET (N-Channel)
@@ -77706,6 +77713,13 @@ Integrated Circuit
 0
 13
 13
+SamacSys_Parts
+MXC6655XA
+MXC6655XA-2
+Integrated Circuit
+0
+12
+12
 SamacSys_Parts
 NE555DR
 D (R-PDSO-G8)
@@ -77776,6 +77790,13 @@ Integrated Circuit
 0
 57
 57
+SamacSys_Parts
+QFN50P400X400X80-21N-D
+T2044+3C 21-0139 U
+Integrated Circuit
+0
+21
+21
 SamacSys_Parts
 QFN50P400X500X80-29N-D
 28-Lead Plastic QFN (4mm × 5mm
@@ -77902,6 +77923,20 @@ Integrated Circuit
 0
 11
 11
+SamacSys_Parts
+SON65P300X300X80-9N
+8 TDFN-EP
+Integrated Circuit
+0
+9
+9
+SamacSys_Parts
+SOP64P600X175-16N
+QSOP
+Integrated Circuit
+0
+16
+16
 SamacSys_Parts
 SOP64P600X175-24N
 QSOP-24
