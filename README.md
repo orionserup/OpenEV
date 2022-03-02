@@ -12,8 +12,8 @@ All Microcontrollers are using the Open Source [RISC-V](https://riscv.org/) Arch
 
 ## Branches
 
-* 500W: For Low Powered Small Vehicles: i.e. E-Bikes, Electric Skateboards, Electric Scooters
-* 1000W: For Higher Powered Small Vehicles: A Beefier Version of the 500W Version
+* Sk8: Configuration for an Electric Skateboard
+* Scoot: Configuration for Electric Scooters and Bikes
 
 
 ## Documentation
